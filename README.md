@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CalebNewton
-- 👀 I’m interested a Chemical Engineer turned Data Scientist
-- 🌱 I’m currently studying MSc Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on SQL and python projects and learn from th very best in my field as a data scientist
+- 👋 Hi, I’m Caleb Newton Henry
+- 👀 I’m a Chemical Engineer interested in solving chemical industries problem using AI
+- 🌱 I’m currently studying Artificial Intelligence and Data Science MSc at University of Hull
+- 💞️ I’m looking to learn from the very best in AI and data science fields and in the future, collaborate with them
 - 📫 How to reach me hcalebnewton@gmail.com
 
 <!---
