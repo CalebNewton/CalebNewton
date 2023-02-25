@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CalebNewton
-- 👀 I’m interested in data science and software engineering
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on SQL and python projects
-- 📫 How to reach me calebhenry2009@gmail.com
+- 👀 I’m interested a Chemical Engineer turned Data Scientist
+- 🌱 I’m currently studying MSc Artificial Intelligence and Data Science
+- 💞️ I’m looking to collaborate on SQL and python projects and learn from th very best in my field as a data scientist
+- 📫 How to reach me hcalebnewton@gmail.com
 
 <!---
 CalebNewton/CalebNewton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
